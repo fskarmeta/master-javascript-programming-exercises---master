@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function getElementsThatEqual10AtProperty must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return every element equal to 10 on a given key.",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return every element equal to 10 on a given key.",
+      "status": "passed"
+    }
+  ]
+}

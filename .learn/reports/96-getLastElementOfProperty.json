@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function getLastElementOfProperty must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return the last element of the array located at a given key.",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return the last element of the array located at a given key.",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return undefined if there is no property at a given key.",
+      "status": "passed"
+    }
+  ]
+}

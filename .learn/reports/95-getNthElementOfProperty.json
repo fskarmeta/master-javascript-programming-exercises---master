@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function getNthElementOfProperty must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return ONLY the nth element located at a given key in the given array.",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return ONLY the nth element located at a given key in the given array.",
+      "status": "passed"
+    },
+    {
+      "title": "If there's no property at the given key the function should return undefined.",
+      "status": "passed"
+    }
+  ]
+}

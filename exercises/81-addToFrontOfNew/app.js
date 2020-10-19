@@ -1,1 +1,3 @@
-// Write your function here
+function addToFrontOfNew(x, y) {
+    return [y, ...x]
+}

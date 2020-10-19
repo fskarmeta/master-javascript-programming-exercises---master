@@ -1,0 +1,33 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 5,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function getOddLengthWordsAtProperty must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return only the odd elements on a given key.",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return undefined if there's no property at the given key.",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return only the odd elements on a given key.",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return undefined if there's no property at the given key.",
+      "status": "passed"
+    }
+  ]
+}

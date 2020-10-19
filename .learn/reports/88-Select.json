@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function select must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The return object must contain the properties specified on the array.",
+      "status": "passed"
+    },
+    {
+      "title": "The return object must not contain the properties that are not present in both arr and obj.",
+      "status": "passed"
+    }
+  ]
+}

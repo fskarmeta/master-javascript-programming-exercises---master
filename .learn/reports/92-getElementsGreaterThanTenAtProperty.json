@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function getElementsGreaterThan10AtProperty must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return only the elements of the array that are greater than 10.",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return only the elements of the array that are greater than 10.",
+      "status": "passed"
+    }
+  ]
+}

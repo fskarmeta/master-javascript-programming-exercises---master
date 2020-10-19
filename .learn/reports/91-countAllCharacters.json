@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function countAllCharacters must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return a key with the amount of times a character is repeated in a given string",
+      "status": "passed"
+    }
+  ]
+}

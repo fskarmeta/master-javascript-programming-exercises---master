@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function removeElement must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return only the elements of the array that are greater than 10.",
+      "status": "passed"
+    }
+  ]
+}

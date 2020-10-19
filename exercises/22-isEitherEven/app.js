@@ -1,1 +1,3 @@
-// Write your function here
+function isEitherEven(x,y) {
+    return x % 2 === 0 || y % 2 === 0 ? true : false
+}
